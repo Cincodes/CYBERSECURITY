@@ -7,4 +7,9 @@ Cybersecurity focuses on protection of computer systems from unauthorized access
 
 ## Configuring Ubuntu Gateway:
 
-**Ubuntu gateway** is simply the Router within this network. In order to configure it, I will start by 
+**Ubuntu gateway** is simply the Router within this network. In order to configure it, I started by installing all the machines and clicked on Ubuntu gateway, after logging in, I configured the Ubuntu 22.04 gateway settings using (sudo vi 00-installer-config.yaml) and 
+ nd change the IP details and interface name to my environment then apply with $ sudo netplan apply. 
+ 
+
+ 
+
